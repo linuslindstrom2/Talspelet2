@@ -14,7 +14,7 @@ public class Controller extends AppCompatActivity {
     }
 
 
-    public void onClick(View view) {
+    public void onClick(View view){
 
     }
 }
